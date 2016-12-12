@@ -1,3 +1,19 @@
+
+getAwsKeys:
+
+class for retrieving your aws keys from the registry
+
+myKeys = getAwsKeys()
+  
+  myKeys.asak
+  myKeys.aski
+
+Requirements:
+
+Python 2.7
+_winreg
+
+
 Requirements:
 
 Python 2.7
