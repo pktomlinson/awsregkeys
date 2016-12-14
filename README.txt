@@ -13,6 +13,18 @@ Requirements:
 Python 2.7
 _winreg
 
+setAwsKeys:
+
+class for inserting your aws keys into the windows registry
+
+myKeys = setAwsKeys(AWS_SECRET_KEY_ID, AWS_SECRET_ACCESS KEY)
+
+Requirements:
+
+Python 2.7
+_winreg
+
+
 
 winregread.py
 
